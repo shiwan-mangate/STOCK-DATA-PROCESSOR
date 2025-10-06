@@ -1,7 +1,5 @@
 # StockDataProcessor: Advanced Stock Data Processing Library
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/your-org/stockdataprocessor) [![Documentation](https://img.shields.io/badge/Docs-Professional-green)](https://your-club-site.com/docs/stockdataprocessor) [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-
 ## Introduction
 
 **StockDataProcessor** is a comprehensive Python library designed for financial data analysts, quantitative traders, and data scientists working with stock market time-series data. Built on top of robust libraries like `pandas`, `yfinance`, `scikit-learn`, and `matplotlib`, it provides a unified interface for downloading historical stock data, handling missing values and outliers, performing advanced imputations, and generating insightful visualizations.
