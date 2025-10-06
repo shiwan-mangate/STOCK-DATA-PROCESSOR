@@ -370,11 +370,9 @@ StockDataProcessor.plot_graph(df_imputed, ["date", "volume"], "area", stacked=Tr
 
 Run tests: `pytest tests/`. Lint: `black .`.
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
-- Built with love by [Your Club Name].
-- Thanks to yfinance, pandas, and the open-source community.
+- Built with love by [QUANT-FINANCE COMMUNITY , NIT ROURKELA].
+- Thanks to yfinance AND the open-source community.
 
-For issues or features, open a GitHub issue. Let's make stock analysis accessible! 🚀
+For issues or features, open a GitHub issue. Let's make stock analysis accessible!
