@@ -22,8 +22,6 @@ Whether you're backtesting trading strategies, building predictive models, or co
 - **Test-Friendly**: Built-in sample dataset for quick prototyping.
 - **Error-Resilient**: Extensive input validation and graceful fallbacks.
 
-This documentation is structured for ease of use: start with installation, explore the API reference, and dive into examples. For source code, visit the [GitHub repository](https://github.com/your-org/stockdataprocessor).
-
 ## Installation
 
 ### Prerequisites
